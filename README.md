@@ -4,9 +4,9 @@
 ![html](https://github.com/he7d3r/PreCalculo/workflows/html/badge.svg)
 # Pré-cálculo: Um Livro Colaborativo
 
-Este é um livro colaborativo sobre pré-cálculo.
+Este é um livro colaborativo sobre Inteligência Artificial.
 
-_Fork us on GitHub!_ O código fonte do livro está disponível no repositório GitHub <https://github.com/reamat/PreCalculo>.
+_Fork us on GitHub!_ O código fonte do livro está disponível no repositório GitHub <https://github.com/santosmjc/PreCalculo>.
 
 Para entrar em contato com os organizadores, envie um e-mail para reamat@ufrgs.br. Ainda, você pode abrir um _issue_ no [repositório do projeto](https://github.com/reamat/PreCalculo) ou postar no [fórum](https://www.ufrgs.br/reamat/forum.html) do projeto REAMAT.
 
