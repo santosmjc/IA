@@ -2,7 +2,7 @@
 ![pdf](https://github.com/he7d3r/PreCalculo/workflows/pdf/badge.svg)
 ![dvi](https://github.com/he7d3r/PreCalculo/workflows/dvi/badge.svg)
 ![html](https://github.com/he7d3r/PreCalculo/workflows/html/badge.svg)
-# Pré-cálculo: Um Livro Colaborativo
+# Inteligência Artificial: Um Livro Colaborativo
 
 Este é um livro colaborativo sobre Inteligência Artificial.
 
